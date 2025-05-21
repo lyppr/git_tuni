@@ -1,0 +1,10 @@
+.in
+.out
+.pyc
+/*.in
+/*.out
+/*.pyc
+*.in
+*.out
+*.pyc
+*/*.in
